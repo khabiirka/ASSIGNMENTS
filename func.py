@@ -1,0 +1,14 @@
+def add(num1,num2):
+ print("the addition of two values are",(num1+num2))
+add(10,90)
+
+def user():
+    x=input("what's your name:")
+    print("Your name is",x)
+user()
+
+
+def user():
+  x=input("Enter the name:")
+  print("Nice to meet you",x)
+user()
